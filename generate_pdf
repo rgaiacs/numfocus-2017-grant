@@ -1,0 +1,19 @@
+#!/bin/bash
+#
+# Compile proposal in PDF.
+
+# Variables
+BODY=body.md
+MASTER_LATEX=proposal.tex
+
+# Convert Markdown to LaTeX
+pandoc \
+    -f markdown \
+    -t latex \
+    -o ${BODY/md/tex} \
+    ${BODY}
+
+# Compile PDF
+latexmk \
+    -pdf \
+    ${MASTER_LATEX}
