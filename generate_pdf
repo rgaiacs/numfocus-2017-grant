@@ -15,5 +15,7 @@ pandoc \
 
 # Compile PDF
 latexmk \
+    -f \
+    -g \
     -pdf \
     ${MASTER_LATEX}
