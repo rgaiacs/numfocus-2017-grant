@@ -128,6 +128,11 @@ A complimentary benefit is that we will increase the number of users of other Nu
 |                    |                    |                    |                    |developer community.|
 |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+
+|Alexandre de        |University of       |                    |Agreed              |Scikit-image lesson |
+|Siqueira            |Campinas            |                    |                    |writer.             |
+|                    |                    |                    |                    |                    |
+|                    |                    |                    |                    |                    |
++--------------------+--------------------+--------------------+--------------------+--------------------+
 |Jonah Duckles       |Software Carpentry  |                    |                    |Ensuring links with |
 |                    |                    |                    |                    |Software Carpentry. |
 |                    |                    |                    |                    |                    |
