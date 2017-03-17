@@ -30,25 +30,36 @@ Since Software Carpentry and Data Carpentry don't have any Instructor Trainer Tr
 who speak Portuguese, this workshop will be offered in English.
 And because of the limited number of seats we will select participants after an open round of applications based on the successful case of Software Carpentry's and Data Carpentry's Instructor Training in South Africa in 2016.
 
-## Lessons in Portuguese
+## Lessons Sprint
 
 Following the Instructor Training event,
-a three-days lesson translation to Portuguese sprint will take place also in Florianópolis.
+a three-days lesson sprint will take place also in Florianópolis.
 The sprint will provide a opportunity for Instructor Training attendees
 work on their final assignment
 and get more knowledge of how Software Carpentry and Data Carpentry operate.
-We expected that at the end of the sprint at least four lessons have being translated: Shell, OpenRefine, Python, and R. Software Carpentry's Git lesson was translated into Portuguese by Raniere in 2015.
 
-## Data Carpentry Lesson for Oceanograph
+During the sprint we will have contributors organising activities on lesson translation to Portuguese
+and Data Carpentry lesson creation.
+At the end of the third day,
+we expected to have (1) four lessons translated (Shell, OpenRefine, Python, and R),
+(2) Data Carpentry lesson for Oceanograph, and
+(3) Software Carpentry lesson with scikit-image examples.
 
-During the three-days lesson translation sprint,
-Melissa Mendonça, Juliana Leonel, Filipe Fernadeds and others
-will work on a Data Carpentry Lesson for Oceanograph.
+Lesson translation will be lead by Raniere Silva
+who is one of the maintainers of Software Carpentry's and Data Carpentry's lesson template
+and has previous experience translating Software Carpentry's Git lesson.
+
+Oceanograph lesson will be lead by Melissa Mendonça
+who organised a workshop in 2016.
 This lesson will be first developed in Portuguese
 since we aim to use it right after the sprint.
 In the future,
 Data Carpentry should be able to work to clean
 the English translation provided by a automatic translation tool.
+
+Scikit-images examples will be lead by Alexandre de Siqueira
+who is one of the maintainers of scikit-image
+and wrote a book about GNU Octave in 2015.
 
 ## First Brazilian Software Carpentry and Data Carpentry Workshop for Women in Science and Engineering
 
