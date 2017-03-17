@@ -123,8 +123,8 @@ A complimentary benefit is that we will increase the number of users of other Nu
 |                    |                    |                    |                    |writer.             |
 +--------------------+--------------------+--------------------+--------------------+--------------------+
 |Filipe Fernandes    |                    |                    |                    |Oceanograph lesson  |
-|                    |                    |                    |                    |wrier, ensuring     
-|                    |                    |                    |                    |contact with        
+|                    |                    |                    |                    |wrier, ensuring     |
+|                    |                    |                    |                    |contact with        |
 |                    |                    |                    |                    |developer community.|
 |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+
