@@ -1,24 +1,24 @@
 # Abstract
 
-The use of open source software for research in Brazil is small
+The use of open source software for research in Brazil is incipient
 and we want to change this by training national Python and R champions
 as Software Carpentry and Data Carpentry instructors
 so that they can lower the barrier to other researchers start using
-open source sotware as their go-to option.
+open source software as their go-to option.
 
 # Project Description
 
 Software Carpentry activities started in Brazil in 2014 by Raniere Silva
-who organised some workshops with the help of collegues.
+who organised some workshops with the help of colleagues.
 The barriers, so far, for Software Carpentry and Data Carpentry
-increase the number of workshops runn in Brazil for a few per year
+increase the number of workshops run in Brazil for a few per year
 to a couple of dozen are the small number of instructors,
 the small number of conferences, such as PyData, where contributors could interact,
-and the lessons not be available in Portuguses.
+and the lessons not be available in Portuguese.
 This project aims to work to reduce the three barriers described before
 by providing support to one idea
 that Melissa Mendonça, Filipe Fernandes, and other attendees of SciPy Latin America 2016 had,
-create a Data Carpentry Lesson for Oceanograph.
+create a Data Carpentry Lesson for Oceanography.
 
 ## Instructor Training Event
 
@@ -42,14 +42,14 @@ During the sprint we will have contributors organising activities on lesson tran
 and Data Carpentry lesson creation.
 At the end of the third day,
 we expected to have (1) four lessons translated (Shell, OpenRefine, Python, and R),
-(2) Data Carpentry lesson for Oceanograph, and
+(2) Data Carpentry lesson for Oceanography, and
 (3) Software Carpentry lesson with scikit-image examples.
 
 Lesson translation will be lead by Raniere Silva
 who is one of the maintainers of Software Carpentry's and Data Carpentry's lesson template
 and has previous experience translating Software Carpentry's Git lesson.
 
-Oceanograph lesson will be lead by Melissa Mendonça
+Oceanography lesson will be lead by Melissa Mendonça
 who organised a workshop in 2016.
 This lesson will be first developed in Portuguese
 since we aim to use it right after the sprint.
@@ -69,9 +69,9 @@ Instructors for this workshop are not defined yet
 but we will invite new instructors who attended the Instructor Training event
 to teach one module or be helpers.
 
-## Softare Carpentry and Data Carpentry Workshops
+## Software Carpentry and Data Carpentry Workshops
 
-The Data Carpentry Lesson for Oceanograph will be tested
+The Data Carpentry Lesson for Oceanography will be tested
 by Melissa Mendonça and Juliana Leonel in Florianópolis.
 We are looking for partners in other Brazilian cities
 interested to host a Software Carpentry or Data Carpentry workshop
@@ -84,9 +84,9 @@ increase the number of Software Carpentry and Data Carpentry instructors in Braz
 translate some of the Software Carpentry's and Data Carpentry's lesson to Portuguese,
 train at least 40 Brazilian researchers in free and open source tools
 they can use on their work.
-A long term benefit of this proposal is that Brazilian universities and research centers
+A long term benefit of this proposal is that Brazilian universities and research centres
 will be interested in Software Carpentry and Data Carpentry
-and become partners making interventions such as this one unecessary.
+and become partners making interventions such as this one unnecessary.
 A complimentary benefit is that we will increase the number of users of other NumFOCUS sponsored and affiliates projects.
 
 # Schedule
@@ -102,11 +102,11 @@ A complimentary benefit is that we will increase the number of users of other Nu
 +--------------------+--------------------+--------------------+--------------------+
 |26-28 July 2017     |Data Carpentry      |Filipe Fernandes    |Raniere Silva       |
 |                    |Lesson for          |                    |                    |
-|                    |Oceanograph Spring  |                    |                    |
+|                    |Oceanography Spring |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+
 |31 July 2017 and 01 |Data Carpentry      |Filipe Fernandes    |Raniere Silva       |
 |August 2017         |Workshop for        |                    |                    |
-|                    |Oceanograph         |                    |                    |
+|                    |Oceanography        |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+
 |03-04 August 2017   |Workshop for Women  |Aleksandra Pawlik   |                    |
 |                    |in Science and      |                    |                    |
@@ -126,14 +126,14 @@ A complimentary benefit is that we will increase the number of users of other Nu
 |                    |                    |                    |                    |training trainer.   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+
 |Melissa Mendonça    |                    |                    |                    |Co-Chair,           |
-|                    |                    |                    |                    |oceanograph lesson  |
+|                    |                    |                    |                    |oceanographylesson  |
 |                    |                    |                    |                    |writer.             |
 +--------------------+--------------------+--------------------+--------------------+--------------------+
 |Juliana Leonel      |                    |                    |                    |Co-Chair,           |
-|                    |                    |                    |                    |oceanograph lesson  |
+|                    |                    |                    |                    |oceanographylesson  |
 |                    |                    |                    |                    |writer.             |
 +--------------------+--------------------+--------------------+--------------------+--------------------+
-|Filipe Fernandes    |                    |                    |                    |Oceanograph lesson  |
+|Filipe Fernandes    |                    |                    |                    |Oceanography lesson |
 |                    |                    |                    |                    |wrier, ensuring     |
 |                    |                    |                    |                    |contact with        |
 |                    |                    |                    |                    |developer community.|
