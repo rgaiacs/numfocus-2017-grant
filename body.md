@@ -108,19 +108,25 @@ A complimentary benefit is that we will increase the number of users of other Nu
 |Name                |Institution         |E-Mail              |Invited? Agreed? Not|Contribution to and |
 |                    |                    |                    |yet contacted?      |role                |
 +--------------------+--------------------+--------------------+--------------------+--------------------+
-|Raniere Silva       |University of       |                    |Agreed              |Co-Chair            |
-|                    |Manchester          |                    |                    |                    |
+|Raniere Silva       |University of       |                    |Agreed              |Co-Chair, lesson    |
+|                    |Manchester          |                    |                    |translation leader. |
 +--------------------+--------------------+--------------------+--------------------+--------------------+
-|Aleksandra Pawalik  |                    |                    |                    |Co-Chair            |
+|Aleksandra Pawalik  |                    |                    |                    |Co-Chair, instructor|
+|                    |                    |                    |                    |training trainer.   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+
-|Melissa Mendonça    |                    |                    |                    |Co-Chair            |
+|Melissa Mendonça    |                    |                    |                    |Co-Chair,           |
+|                    |                    |                    |                    |oceanograph lesson  |
+|                    |                    |                    |                    |writer.             |
 +--------------------+--------------------+--------------------+--------------------+--------------------+
-|Juliana Leonel      |                    |                    |                    |Co-Chair            |
+|Juliana Leonel      |                    |                    |                    |Co-Chair,           |
+|                    |                    |                    |                    |oceanograph lesson  |
+|                    |                    |                    |                    |writer.             |
 +--------------------+--------------------+--------------------+--------------------+--------------------+
-|Filipe Fernandes    |                    |                    |                    |Software            |
-|                    |                    |                    |                    |Developer. Ensuring |
-|                    |                    |                    |                    |contact with        |
+|Filipe Fernandes    |                    |                    |                    |Oceanograph lesson  |
+|                    |                    |                    |                    |wrier, ensuring     
+|                    |                    |                    |                    |contact with        
 |                    |                    |                    |                    |developer community.|
+|                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+
 |Jonah Duckles       |Software Carpentry  |                    |                    |Ensuring links with |
 |                    |                    |                    |                    |Software Carpentry. |
