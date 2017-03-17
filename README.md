@@ -2,6 +2,8 @@
 
 This is my proposal to NumFOCUS's 2017 Grant to be submited under Software Carpentry's and Data Carpentry's name.
 
+Check the [release tab](https://github.com/rgaiacs/numfocus-2017-grant/releases) for the PDF version of the proposal.
+
 ## Grant Announcement
 
 https://groups.google.com/d/msg/numfocus/wPjhdm8NJiA/S8JL1_NZDQAJ
