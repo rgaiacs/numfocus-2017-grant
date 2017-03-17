@@ -86,10 +86,10 @@ A collection of frequenty question and answers.
 
   **TO be defined.**
 
-- What time commitment is expected from those attending the Data Carpentry for Oceanograph workshop?
+- What time commitment is expected from those attending the Data Carpentry for Oceanography workshop?
 
   **To be defined**.
 
-- Are the dates for the Data Carpentry for Oceanograph workshop already defined?
+- Are the dates for the Data Carpentry for Oceanography workshop already defined?
 
   **No**.
