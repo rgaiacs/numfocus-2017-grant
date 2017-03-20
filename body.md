@@ -154,6 +154,11 @@ A complimentary benefit is that we will increase the number of users of other Nu
 |                    |                    |                    |                    |                    |
 |                    |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+--------------------+
+|Haydee Svab         |                    |                    |Agreed              |Local organiser for |
+|                    |                    |                    |                    |the Workshop for    |
+|                    |                    |                    |                    |Women in Science and|
+|                    |                    |                    |                    |Engineer            |
++--------------------+--------------------+--------------------+--------------------+--------------------+
 
 # Budget
 
