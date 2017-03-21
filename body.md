@@ -72,10 +72,13 @@ to teach one module or be helpers.
 ## Software Carpentry and Data Carpentry Workshops
 
 The Data Carpentry Lesson for Oceanography will be tested
-by Melissa Mendonça and Juliana Leonel in Florianópolis.
-We are looking for partners in other Brazilian cities
-interested to host a Software Carpentry or Data Carpentry workshop
+by Melissa Mendonça and Juliana Leonel in Florianópolis
 in the weeks following the lesson translation sprint.
+
+We also received letters of interest from the Federal University of Ceará
+to host a Software Carpentry or Data Carpentry workshop
+given that some experienced instructors will be visiting Brazil.
+This additional workshops will have in average 20 learners.
 
 # Benefit to Project and Community
 
