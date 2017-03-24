@@ -1,10 +1,12 @@
 # Abstract
 
-The use of open source software for research in Brazil is incipient
-and we want to change this by training national Python and R champions
-as Software Carpentry and Data Carpentry instructors
-so that they can lower the barrier to other researchers start using
-open source software as their go-to option.
+The purpose of our project is to lower the barrier for researchers in Brazil to start using
+Open Source Software (OSS) and in turn make it their default choice helping them join the world of Open Science. 
+We wil achieve this by leveraging the existing skills capacity and trainig 
+local Python and R champions as Software Carpentry and Data Carpentry instructors. 
+We wil also work with them to help them become advocates for Open Science. This
+will allow them share their computaional skills with researchers as well as 
+propagate the principles essential for making this paradim shift.
 
 # Project Description
 
