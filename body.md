@@ -8,6 +8,19 @@ open source software as their go-to option.
 
 # Project Description
 
+By helping researchers in Brazil adopt Open Science aproaches this project will contribute to 
+increasing internatonal visbility and collaboration of scholars in Brazilian research
+organisations. OSS is an essential component of making Open Science a
+prevalent standard. In our approach to bringing the OSS solutions to researchers in 
+Brazil we will help them make their research more robust, reproducible and 
+sustainable.
+
+This project focuses entirely on the research sector in Brazil. A selected
+number of research organisations support and are involved in this proposals 
+which ensures good local insight and operational background. 
+
+## Background
+
 Software Carpentry activities started in Brazil in 2014 by Raniere Silva
 who organised some workshops with the help of colleagues.
 The barriers, so far, for Software Carpentry and Data Carpentry
