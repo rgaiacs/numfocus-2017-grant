@@ -65,7 +65,7 @@ Use any of the following actions:
 
 ## How to Write the Proposal
 
-Edit `body.md`.
+Edit `body.md` and try to follow the writing style guide at `STYLE_GUIDE.md`.
 
 ## Procedure to Compile the Proposal
 

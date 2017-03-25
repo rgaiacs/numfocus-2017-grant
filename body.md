@@ -1,20 +1,20 @@
 # Abstract
 
 The purpose of our project is to lower the barrier for researchers in Brazil to start using
-Open Source Software (OSS) and in turn make it their default choice helping them join the world of Open Science. 
-We wil achieve this by leveraging the existing skills capacity and trainig 
+Free and Open Source Software (FOSS) and in turn make it their default choice helping them join the world of Open Science. 
+We will achieve this by leveraging the existing skills capacity and training 
 local Python and R champions as Software Carpentry and Data Carpentry instructors. 
-We wil also work with them to help them become advocates for Open Science. This
-will allow them share their computaional skills with researchers as well as 
-propagate the principles essential for making this paradim shift.
+We will also work with them to help them become advocates for Open Science. This
+will allow them share their computational skills with researchers as well as 
+propagate the principles essential for making this paradigm shift.
 
 # Project Description
 
-By helping researchers in Brazil adopt Open Science aproaches this project will contribute to 
-increasing internatonal visbility and collaboration of scholars in Brazilian research
-organisations. OSS is an essential component of making Open Science a
-prevalent standard. In our approach to bringing the OSS solutions to researchers in 
-Brazil we will help them make their research more robust, reproducible and 
+By helping researchers in Brazil adopt Open Science approaches, this project will contribute to 
+increase international visibility and collaboration of scholars in Brazilian research
+organisations. FOSS is an essential component of making Open Science a
+prevalent standard. In our approach to bringing the FOSS solutions to researchers in 
+Brazil, we will help them make their research more robust, reproducible and 
 sustainable.
 
 This project focuses entirely on the research sector in Brazil. A selected
@@ -144,7 +144,7 @@ A complimentary benefit is that we will increase the number of users of other Nu
 |                    |                    |                    |                    |training trainer.   |
 +--------------------+--------------------+--------------------+--------------------+--------------------+
 |Melissa Mendonça    |                    |                    |                    |Co-Chair,           |
-|                    |                    |                    |                    |oceanographylesson  |
+|                    |                    |                    |                    |oceanography lesson |
 |                    |                    |                    |                    |writer.             |
 +--------------------+--------------------+--------------------+--------------------+--------------------+
 |Juliana Leonel      |                    |                    |                    |Co-Chair,           |
