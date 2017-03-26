@@ -24,71 +24,71 @@ which ensures good local insight and operational background.
 ## Background
 
 Software Carpentry activities started in Brazil in 2014 by Raniere Silva
-who organised some workshops with the help of colleagues.
+who leaded the organisation of some workshops.
 The barriers, so far, for Software Carpentry and Data Carpentry
-increase the number of workshops run in Brazil for a few per year
+increase the number of workshops in Brazil from a few per year
 to a couple of dozen are the small number of instructors,
 the small number of conferences, such as PyData, where contributors could interact,
-and the lessons not be available in Portuguese.
+and the lessons only be available in English,
+one of the "barrier to entering the computer field" mentioned by Andy Oram.
 This project aims to work to reduce the three barriers described before
-by providing support to one idea
-that Melissa Mendonça, Filipe Fernandes, and other attendees of SciPy Latin America 2016 had,
-create a Data Carpentry Lesson for Oceanography.
+by financing a Software Carpentry and Data Carpentry Instructor Training event,
+a Software Carpentry and Data Carpentry lesson sprint,
+the First Brazilian Software Carpentry and Data Carpentry Workshop for Women in Science and Engineering,
+and satelite Software Carpentry and Data Carpentry workshops.
 
 ## Instructor Training Event
 
 Software Carpentry's and Data Carpentry's Instructor Training will be offered
-up to 20 new instructors. The event two-days event will be hosted in Florianópolis, Brazil
-so that Melissa Mendonça, Juliana Leonel and their collaborators could be trained.
-We will invited members of the local PyLadies group to be trained.
-Since Software Carpentry and Data Carpentry don't have any Instructor Trainer Trainer
-who speak Portuguese, this workshop will be offered in English.
-And because of the limited number of seats we will select participants after an open round of applications based on the successful case of Software Carpentry's and Data Carpentry's Instructor Training in South Africa in 2016.
+up to 20 new instructors. It will be a two-days event hosted in Florianópolis, Brazil where three of the proposer are located.
+This workshop will be offered in English
+because Software Carpentry and Data Carpentry
+don't have any Instructor Trainer Trainer
+who speak Portuguese.
+Due the limited number of seats,
+we will follow the successful case
+of Software Carpentry's and Data Carpentry's Instructor Training in South Africa in 2016:
+we will invite local researchers and members of local coder groups,
+such as PyLadies,
+to apply for the workshop
+and we will select who will be trained.
 
 ## Lessons Sprint
 
 Following the Instructor Training event,
 a three-days lesson sprint will take place also in Florianópolis.
 The sprint will provide a opportunity for Instructor Training attendees
-work on their final assignment
+work on their final assignment, a pull request to one lesson,
 and get more knowledge of how Software Carpentry and Data Carpentry operate.
 
-During the sprint we will have contributors organising activities on lesson translation to Portuguese
-and Data Carpentry lesson creation.
+During the sprint we will have contributors organising activities on lesson translation to Portuguese.
 At the end of the third day,
-we expected to have (1) four lessons translated (Shell, OpenRefine, Python, and R),
-(2) Data Carpentry lesson for Oceanography, and
-(3) Software Carpentry lesson with scikit-image examples.
-
+we expected to have (1) three lessons translated
+([Python](https://github.com/swcarpentry/python-novice-gapminder),
+[R](https://github.com/swcarpentry/r-novice-gapminder), and
+[OpenRefine](https://github.com/datacarpentry/OpenRefine-ecology-lesson)).
 Lesson translation will be lead by Raniere Silva
 who is one of the maintainers of Software Carpentry's and Data Carpentry's lesson template
 and has previous experience translating Software Carpentry's Git lesson.
+We are considering accepting remote participation to this translation effort.
 
-Oceanography lesson will be lead by Melissa Mendonça
-who organised a workshop in 2016.
-This lesson will be first developed in Portuguese
-since we aim to use it right after the sprint.
-In the future,
-Data Carpentry should be able to work to clean
-the English translation provided by a automatic translation tool.
-
-Scikit-images examples will be lead by Alexandre de Siqueira
-who is one of the maintainers of scikit-image
-and wrote a book about GNU Octave in 2015.
+The sprint will also serve as a opportunity
+to some of the proposers to start working on their own ideas
+for future Software Carpentry's and Data Carpentry's lessons
+and captstone examples,
+specially Melissa Mendonça who is interested in Data Carpentry Lesson for Earth Sciences
+and Alexandre de Siqueira who is interested in a capstone featuring [scikit-image](http://scikit-image.org/).
 
 ## First Brazilian Software Carpentry and Data Carpentry Workshop for Women in Science and Engineering
 
-Aleksandra Pawlik will organise the First Brazilian Software Carpentry and Data Carpentry Workshop for Women in Science and Engineering
-based on her experience organising a similar event on the UK.
+Aleksandra Pawlik and Haydee Svab will coordinate the First Brazilian Software Carpentry and Data Carpentry Workshop for Women in Science and Engineering
+based on Aleksandra's experience organising a similar event on the United Kingdom
+and Haydee's connection with women in science, technology, engineering and mathematics in São Paulo, Brazil.
 Instructors for this workshop are not defined yet
 but we will invite new instructors who attended the Instructor Training event
 to teach one module or be helpers.
 
 ## Software Carpentry and Data Carpentry Workshops
-
-The Data Carpentry Lesson for Oceanography will be tested
-by Melissa Mendonça and Juliana Leonel in Florianópolis
-in the weeks following the lesson translation sprint.
 
 We also received letters of interest from the Federal University of Ceará
 to host a Software Carpentry or Data Carpentry workshop
@@ -100,36 +100,12 @@ This additional workshops will have in average 20 learners.
 With this project we will
 increase the number of Software Carpentry and Data Carpentry instructors in Brazil,
 translate some of the Software Carpentry's and Data Carpentry's lesson to Portuguese,
-train at least 40 Brazilian researchers in free and open source tools
+train at least <!-- FIXME --> 40 Brazilian researchers in free and open source tools
 they can use on their work.
 A long term benefit of this proposal is that Brazilian universities and research centres
 will be interested in Software Carpentry and Data Carpentry
 and become partners making interventions such as this one unnecessary.
 A complimentary benefit is that we will increase the number of users of other NumFOCUS sponsored and affiliates projects.
-
-# Schedule
-+--------------------+--------------------+--------------------+--------------------+
-|Dates               |Activities,         |Owner/Organiser     |Participants        |
-|                    |milestones and      |                    |                    |
-|                    |deliverables        |                    |                    |
-+--------------------+--------------------+--------------------+--------------------+
-|24-25 July 2017     |Instructor Trainer  |Aleksandra Pawlik   |Raniere Silva       |
-+--------------------+--------------------+--------------------+--------------------+
-|26-28 July 2017     |Lesson Translation  |Raniere Silva       |                    |
-|                    |Spring              |                    |                    |
-+--------------------+--------------------+--------------------+--------------------+
-|26-28 July 2017     |Data Carpentry      |Filipe Fernandes    |Raniere Silva       |
-|                    |Lesson for          |                    |                    |
-|                    |Oceanography Spring |                    |                    |
-+--------------------+--------------------+--------------------+--------------------+
-|31 July 2017 and 01 |Data Carpentry      |Filipe Fernandes    |Raniere Silva       |
-|August 2017         |Workshop for        |                    |                    |
-|                    |Oceanography        |                    |                    |
-+--------------------+--------------------+--------------------+--------------------+
-|03-04 August 2017   |Workshop for Women  |Aleksandra Pawlik   |                    |
-|                    |in Science and      |                    |                    |
-|                    |Engineer            |                    |                    |
-+--------------------+--------------------+--------------------+--------------------+
 
 # Project Team
 

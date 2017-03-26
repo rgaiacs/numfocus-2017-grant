@@ -1,5 +1,9 @@
 \documentclass[]{article}
 \usepackage[margin=2cm]{geometry}
+\usepackage[backend=bibtex]{biblatex}
+\bibliography{reference}
+
+% From Pandoc's template
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage[]{longtable}
@@ -64,5 +68,8 @@
 \maketitle
 
 \input{body.tex}
+
+\nocite{*}
+\printbibliography
 
 \end{document}

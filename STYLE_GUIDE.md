@@ -20,3 +20,7 @@ When editing `body.md` , please follow the style describe here.
 - R
 
   with capital "R" when referencing to the programming language.
+
+- United Kingdom
+
+  instead of UK.
