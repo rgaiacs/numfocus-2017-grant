@@ -75,7 +75,7 @@ We are considering accepting remote participation to this translation effort.
 The sprint will also serve as a opportunity
 to some of the proposers to start working on their own ideas
 for future SC&DC's lessons
-and captstone examples,
+and capstone examples,
 specially Melissa Mendonça who is interested in Data Carpentry Lesson for Earth Sciences
 and Alexandre de Siqueira who is interested in a Python capstone featuring [scikit-image](http://scikit-image.org/).
 
@@ -86,7 +86,7 @@ interested to host SC&DC workshops
 leaded by the experienced instructors visiting Brazil
 after they conduct the Instructor Training and lesson sprint.
 We should be able to train, in average, 20 researchers per group
-and have geograph coverage.
+and have geography coverage.
 
 In addition,
 Aleksandra Pawlik and Haydee Svab will coordinate the First Brazilian Software Carpentry and Data Carpentry Workshop for Women in Science and Engineering
