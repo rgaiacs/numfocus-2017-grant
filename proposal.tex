@@ -1,8 +1,5 @@
 \documentclass[]{article}
 \usepackage[margin=2cm]{geometry}
-\usepackage[backend=bibtex]{biblatex}
-\bibliography{reference}
-
 % From Pandoc's template
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
@@ -30,9 +27,6 @@
 }{}
 \PassOptionsToPackage{hyphens}{url} % url is loaded by hyperref
 \usepackage[unicode=true]{hyperref}
-\hypersetup{
-            pdfborder={0 0 0},
-            breaklinks=true}
 \urlstyle{same}  % don't use monospace font for urls
 \IfFileExists{parskip.sty}{%
 \usepackage{parskip}
@@ -59,17 +53,12 @@
 \def\fps@figure{htbp}
 \makeatother
 
-\title{Expand Carpentries in Brazil}
-\author{Raniere Silva}
-\date{}
-
 \begin{document}
 
-\maketitle
+\begin{center}
+\huge{Expand Carpentries in Brazil}
+\end{center}
 
 \input{body.tex}
-
-\nocite{*}
-\printbibliography
 
 \end{document}
