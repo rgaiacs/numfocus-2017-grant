@@ -1,0 +1,87 @@
+Description,Unit Cost,Units,Cost,Reference
+Flight: Manchester ↔ São Paulo (GRU),1345,1,1230,"https://www.google.co.uk/flights/
+
+Outbound flight
+
+Fri 11 Aug
+
+18:05 – 20:45
+
+Manchester (MAN) – Frankfurt (FRA)
+
+Lufthansa 947
+
+22:05 – 04:55+1
+
+Frankfurt (FRA) – São Paulo (GRU)
+
+Lufthansa 506
+
+Return flight
+
+Sun 3 Sep
+
+18:15 – 10:45+1
+
+São Paulo (GRU) – Frankfurt (FRA)
+
+Lufthansa 507
+
+22:15+1 – 23:00+1
+
+Frankfurt (FRA) – Manchester (MAN)
+
+Lufthansa 948"
+Flight: Auckland ↔ São Paulo (GRU),1342,1,1281,"https://www.google.co.uk/flights/
+
+Outbound flight
+
+Thu 3 Aug
+
+10:15 – 12:55
+
+Manchester (MAN) – New York City (JFK)
+
+American 211
+
+19:30 – 06:25+1
+
+New York City (JFK) – São Paulo (GRU)
+
+LATAM 8081
+
+Return flight
+
+Sat 26 Aug
+
+21:30 – 06:15+1
+
+São Paulo (GRU) – New York City (JFK)
+
+American 950
+
+19:25+1 – 07:20+2
+
+New York City (JFK) – Manchester (MAN)
+
+American 210"
+Flight: Viracopos ↔ Florianópolis,152,2,304,"Outbound flight
+
+Sun 6 Aug
+
+09:15 – 10:35
+
+Campinas (VCP) – Florianópolis (FLN)
+
+Azul 2707
+
+Return flight
+
+Sun 13 Aug
+
+11:05 – 12:20
+
+Florianópolis (FLN) – Campinas (VCP)
+
+Azul 4197"
+Total,,,2815,
