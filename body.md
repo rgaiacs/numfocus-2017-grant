@@ -22,40 +22,51 @@ create a Data Carpentry Lesson for Oceanography.
 
 ## Instructor Training Event
 
-Software Carpentry's and Data Carpentry's Instructor Training will be offered
-up to 20 new instructors. The event two-days event will be hosted in Florianópolis, Brazil
-so that Melissa Mendonça, Juliana Leonel and their collaborators could be trained.
-We will invited members of the local PyLadies group to be trained.
-Since Software Carpentry and Data Carpentry don't have any Instructor Trainer Trainer
-who speak Portuguese, this workshop will be offered in English.
-And because of the limited number of seats we will select participants after an open round of applications based on the successful case of Software Carpentry's and Data Carpentry's Instructor Training in South Africa in 2016.
+In order to grow the pull of Software and Data Carpentry instructors in Brazil
+we will run Software and Data Carpentry Instructor Training for 20 trainees. 
+This 2-day event event will take place in Florianópolis, Brazil where the 
+research community has already had some exposure to the Carpentry workshops.
+Namely Melissa Mendonça, Juliana Leonel and their collaborators will be able to attend
+the Instructor Training.
+
+We will reserve a number of seats at the training for the local PyLadies group. Diversity 
+and making training in computational skills is accesible to everyone is one of the 
+Software and Data Carpentry values which we alre also of great importance to us.
+
+We expect that the workshop will receive a lot of interest and there will be more potential
+participants than the number of seats we can offer. We will first collect applications which 
+will allow us allocate the seats to those candidates who will bring most benefit contributing to
+eResearch in Brazil. We will make the selection process fully transparent and appoint an independent
+committee to select the trainees.
+ 
+Since none of the current Instructor Trainers for Software and Data Carpentry can speak
+Portuguese, this workshop will be offered in English.
+
 
 ## Lessons Sprint
 
-Following the Instructor Training event,
-a three-days lesson sprint will take place also in Florianópolis.
-The sprint will provide a opportunity for Instructor Training attendees
-work on their final assignment
-and get more knowledge of how Software Carpentry and Data Carpentry operate.
+The Instructor Training will be followed by 
+a three-days lesson development sprint. The sprint will provide a opportunity for 
+the newly trained instructors to familiarise themselves with Software and Data
+Carpentry operations regarding training material development. It will
+bring them closer to the community around Carpentries. The trainees will be able to 
+start working on their checkout tasks.
 
-During the sprint we will have contributors organising activities on lesson translation to Portuguese
-and Data Carpentry lesson creation.
-At the end of the third day,
-we expected to have (1) four lessons translated (Shell, OpenRefine, Python, and R),
-(2) Data Carpentry lesson for Oceanography, and
-(3) Software Carpentry lesson with scikit-image examples.
+The sprint will focus on the following three activities:
+(1) translating the lessons to Portuguese  (Shell, OpenRefine, Python, and R),
+(2) developing Data Carpentry lesson for Oceanography, and
+(3) developing Software Carpentry lesson with scikit-image examples.
 
 Lesson translation will be lead by Raniere Silva
-who is one of the maintainers of Software Carpentry's and Data Carpentry's lesson template
-and has previous experience translating Software Carpentry's Git lesson.
+who is one of the maintainers of Software and Data Carpentry respective lesson templates
+and has experience translating Software Carpentry Git lesson.
 
 Oceanography lesson will be lead by Melissa Mendonça
-who organised a workshop in 2016.
+who organised a Data Carpentry workshop in Brazil in 2016.
 This lesson will be first developed in Portuguese
 since we aim to use it right after the sprint.
-In the future,
-Data Carpentry should be able to work to clean
-the English translation provided by a automatic translation tool.
+In the future, we aim to support translating this lesson into 
+English.
 
 Scikit-images examples will be lead by Alexandre de Siqueira
 who is one of the maintainers of scikit-image
@@ -63,11 +74,9 @@ and wrote a book about GNU Octave in 2015.
 
 ## First Brazilian Software Carpentry and Data Carpentry Workshop for Women in Science and Engineering
 
-Aleksandra Pawlik will organise the First Brazilian Software Carpentry and Data Carpentry Workshop for Women in Science and Engineering
-based on her experience organising a similar event on the UK.
-Instructors for this workshop are not defined yet
-but we will invite new instructors who attended the Instructor Training event
-to teach one module or be helpers.
+Aleksandra Pawlik will organise the First Brazilian Software Carpentry and Data Carpentry Workshop for Women in Science and Engineering.
+Aleksandra has already organised two WiSE workshops, one in Poland and one in the U.K. 
+We are planning to involve the newly trained instructors in this event.
 
 ## Software Carpentry and Data Carpentry Workshops
 
