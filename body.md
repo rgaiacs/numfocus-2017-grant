@@ -100,9 +100,9 @@ triplicate the number of SC&DC instructors in Brazil,
 translate some of the SC&DC's lesson to Portuguese,
 train at least 100 Brazilian researchers in FOSS tools
 they can use on their work and in turn push Open Science forward.
-A long term benefit of this proposal is
+A long term benefit is
 make interventions such as this one unnecessary
-since Brazilian universities and research centres will be SC&DC partners.
+since Brazilian institutions will be SC&DC partners.
 A complimentary benefit is that we will increase the number of users of other NumFOCUS sponsored and affiliates projects
 who can be contributors or maintainers in the future.
 
