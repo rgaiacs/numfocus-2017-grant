@@ -38,8 +38,10 @@ the First Brazilian Software Carpentry and Data Carpentry Workshop for Women in 
 
 ## Instructor Training Event
 
-SC&DC's Instructor Training will be offered
-up to 20 new instructors. It will be a two-days event hosted in Florianópolis, Brazil where three of the proposers are located.
+In order to grow the pull of SC&DC instructors in Brazil
+we will run a SC&DC Instructor Training for 20 trainnes.
+This 2-day event will take place in Florianópolis, Brazil
+where research community has already had some exposure to SC&DC.
 This workshop will be offered in English
 because SC&DC
 don't have any Instructor Training Trainer
@@ -51,33 +53,36 @@ we will invite local researchers and members of local coder groups,
 such as PyLadies,
 to apply for the workshop
 and we will select who will be trained.
-We are committed to help under-represented groups in our selection.
+We will researve a number of seates to members of under-represented groups.
 
 ## Lessons Sprint
 
-Following the Instructor Training event,
-a three-days lesson sprint will take place also in Florianópolis.
-The sprint will provide a opportunity for Instructor Training attendees
-work on their final assignment, a pull request to one lesson,
-and get more knowledge of how SC&DC operate.
+The Instructor Training will be followed by
+a three-days lesson development sprint.
+The sprint will provide a opportunity for
+the newly trained instructors to familiarise themselves
+with SC&DC operations regarding training material development.
+It will bring them closer to the community around SC&DC.
+The trainees will be able to start working on their checkout tasks.
 
-During the sprint we will have contributors organising activities on lesson translation to Portuguese.
-At the end of the third day,
-we expected to have three lessons translated
+The sprint will focus on the following two activities:
+translating some lessons to Portuguese
 ([Python](https://github.com/swcarpentry/python-novice-gapminder),
 [R](https://github.com/swcarpentry/r-novice-gapminder), and
-[OpenRefine](https://github.com/datacarpentry/OpenRefine-ecology-lesson)).
+[OpenRefine](https://github.com/datacarpentry/OpenRefine-ecology-lesson))
+and
+bootstrap future SC&DC's lessons and capstone examples.
+
 Lesson translation will be lead by Raniere Silva
-who is one of the maintainers of SC&DC's lesson template
-and has [previous experience translating Software Carpentry's Git lesson](http://scf.rgaiacs.com/git/index.html).
+who is one of the maintainers of SC&DC respective lesson templates
+and has [experience translating Software Carpentry Git lesson](http://scf.rgaiacs.com/git/index.html).
 We are considering accepting remote participation to this translation effort.
 
-The sprint will also serve as a opportunity
-to some of the proposers to start working on their own ideas
-for future SC&DC's lessons
-and capstone examples,
-specially Melissa Mendonça who is interested in Data Carpentry Lesson for Earth Sciences
-and Alexandre de Siqueira who is interested in a Python capstone featuring [scikit-image](http://scikit-image.org/).
+Some ideas for future SC&DC' lessons that will be investigate are
+Data Carpentry Lesson for Earth Sciences,
+lead by Melissa Mendonça,
+and Python capstone featuring [scikit-image](http://scikit-image.org/),
+lead by Alexandre de Siqueira.
 
 ## SC&DC Workshops
 
@@ -89,12 +94,15 @@ We should be able to train, in average, 20 researchers per group
 and have geography coverage.
 
 In addition,
-Aleksandra Pawlik and Haydee Svab will coordinate the First Brazilian Software Carpentry and Data Carpentry Workshop for Women in Science and Engineering
-based on [Aleksandra's experience organising a similar event on the United Kingdom](https://www.software.ac.uk/blog/2016-09-26-first-uk-software-carpentry-workshop-women-science-and-engineering)
-and Haydee's connection with women in science, technology, engineering and mathematics in São Paulo, Brazil.
-Instructors for this workshop are not defined yet
-but we will invite new instructors who attended the Instructor Training event
-to teach one module or be helpers.
+Aleksandra Pawlik and Haydee Svab will coordinate the First Brazilian Software Carpentry and Data Carpentry Workshop for Women in Science and Engineering.
+Aleksandra has already organised two WiSE workshops,
+one in Poland
+and
+one in the [United Kingdom](https://www.software.ac.uk/blog/2016-09-26-first-uk-software-carpentry-workshop-women-science-and-engineering).
+Haydee has worked with WiSE community around São Paulo
+and we will help us to reach out to this workshop target audience.
+We are planning to
+involve the newly trained instructors in this event.
 
 # Benefit to Project and Community
 
