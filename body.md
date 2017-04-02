@@ -2,10 +2,10 @@
 
 The purpose of our project is to help Brazilian researchers in Brazil
 on their adoption of Free and Open Source Software (FOSS)
-and in turn help them entering the world of Open Science. 
-We will achieve this aim by leveraging the existing skills capacity and training 
-local Python and R champions as Software Carpentry and Data Carpentry (SC&DC) instructors. 
-This will allow them share their computational skills with other researchers as well as 
+and in turn help them entering the world of Open Science.
+We will achieve this aim by leveraging the existing skills capacity and training
+local Python and R champions as Software Carpentry and Data Carpentry (SC&DC) instructors.
+This will allow them share their computational skills with other researchers as well as
 propagate the principles essential for making the Open Science paradigm shift.
 
 # Project Description
@@ -17,7 +17,7 @@ who leaded the organisation of some workshops.
 The barriers, so far, for more SC&DC workshops per year in Brazil
 are the small number of instructors,
 the small number of conferences, such as PyData, where contributors could interact and present their research,
-and the lessons only be available in English---one of the barriers to enter the computer field" mentioned by Andy Oram at [Open Source in Brazil](http://www.oreilly.com/programming/free/open-source-in-brazil.csp).
+and the lessons only available in English---one of the barriers to enter the computer field as mentioned by Andy Oram at [Open Source in Brazil](http://www.oreilly.com/programming/free/open-source-in-brazil.csp).
 This project aims to reduce the barriers described before
 by financing a SC&DC Instructor Training event,
 a SC&DC lesson sprint,
@@ -36,7 +36,7 @@ don't have any Instructor Training Trainer
 who speak Portuguese.
 Due the limited number of seats,
 we will follow the successful case
-of SC&DC's Instructor Training in South Africa in 2016:
+of SC&DC Instructor Training in South Africa in 2016:
 we will invite local researchers and members of local coder groups,
 such as PyLadies,
 to apply for the workshop
@@ -51,7 +51,8 @@ The sprint will provide an opportunity for
 the newly trained instructors to familiarise themselves
 with SC&DC operations regarding training material development.
 It will bring them closer to the community around SC&DC.
-The trainees will be able to start working on their checkout tasks.
+Additionaly,
+the trainees will be able to start working on their checkout tasks.
 
 The sprint will focus on the following two activities:
 translating some lessons to Portuguese
@@ -59,14 +60,14 @@ translating some lessons to Portuguese
 [R](https://github.com/swcarpentry/r-novice-gapminder), and
 [OpenRefine](https://github.com/datacarpentry/OpenRefine-ecology-lesson))
 and
-bootstrap future SC&DC's lessons and capstone examples.
+bootstrap future SC&DC lessons and capstone examples.
 
 Lesson translation will be lead by Raniere Silva
 who is one of the maintainers of SC&DC respective lesson templates
 and has [experience translating Software Carpentry Git lesson](http://scf.rgaiacs.com/git/index.html).
 We are considering accepting remote participation to this translation effort.
 
-Some ideas for future SC&DC' lessons that will be investigate are
+Some ideas for future SC&DC lessons that will be investigate are
 Data Carpentry Lesson for Earth Sciences,
 lead by Melissa Mendonça,
 and Python capstone featuring [scikit-image](http://scikit-image.org/),
@@ -87,8 +88,8 @@ Aleksandra has already organised two WiSE workshops,
 one in Poland
 and
 one in the [United Kingdom](https://www.software.ac.uk/blog/2016-09-26-first-uk-software-carpentry-workshop-women-science-and-engineering).
-Haydee has worked with WiSE community around São Paulo
-and we will help us to reach out to this workshop target audience.
+Haydee works with WiSE community around São Paulo
+and we will help us to reach out our target audience.
 We are planning to
 involve the newly trained instructors in this event.
 
@@ -99,9 +100,9 @@ triplicate the number of SC&DC instructors in Brazil,
 translate some of the SC&DC's lesson to Portuguese,
 train at least 100 Brazilian researchers in FOSS tools
 they can use on their work and in turn push Open Science forward.
-A long term benefit of this proposal is that Brazilian universities and research centres
-will be interested in SC&DC
-and become partners making interventions such as this one unnecessary.
+A long term benefit of this proposal is
+make interventions such as this one unnecessary
+since Brazilian universities and research centres will be SC&DC partners.
 A complimentary benefit is that we will increase the number of users of other NumFOCUS sponsored and affiliates projects
 who can be contributors or maintainers in the future.
 
@@ -114,8 +115,8 @@ who can be contributors or maintainers in the future.
 |Raniere Silva       |University of       |raniere@rgaiacs.com |Co-Chair, lesson            |
 |                    |Manchester          |                    |translation leader.         |
 +--------------------+--------------------+--------------------+----------------------------+
-|Aleksandra Pawalik  |                    |                    |Co-Chair, instructor        |
-|                    |                    |                    |training trainer.           |
+|Aleksandra Pawalik  |New Zealand eScience|                    |Co-Chair, instructor        |
+|                    |Infrastructure      |                    |training trainer.           |
 +--------------------+--------------------+--------------------+----------------------------+
 |Melissa Mendonça    |Federal University  |                    |Co-Chair, local             |
 |                    |of Santa Catarina   |                    |organiser.                  |
@@ -138,7 +139,7 @@ who can be contributors or maintainers in the future.
 |                    |                    |                    |scikit-image.               |
 |                    |                    |                    |                            |
 +--------------------+--------------------+--------------------+----------------------------+
-|Haydee Svab         |                    |                    |Local organiser for         |
+|Haydee Svab         |PoliGNU             |                    |Local organiser for         |
 |                    |                    |                    |the WISE Workshop.          |
 |                    |                    |                    |                            |
 |                    |                    |                    |                            |
