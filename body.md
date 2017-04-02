@@ -1,36 +1,24 @@
 # Abstract
 
-The purpose of our project is to lower the barrier for researchers in Brazil to start using
-Free and Open Source Software (FOSS) and in turn help them joining the world of Open Science. 
-We will achieve this by leveraging the existing skills capacity and training 
+The purpose of our project is to help Brazilian researchers in Brazil
+on their adoption of Free and Open Source Software (FOSS)
+and in turn help them entering the world of Open Science. 
+We will achieve this aim by leveraging the existing skills capacity and training 
 local Python and R champions as Software Carpentry and Data Carpentry (SC&DC) instructors. 
-This will allow them share their computational skills with researchers as well as 
+This will allow them share their computational skills with other researchers as well as 
 propagate the principles essential for making the Open Science paradigm shift.
 
 # Project Description
 
-<!--
-By helping researchers in Brazil adopt Open Science approaches, this project will contribute to 
-increase international visibility and collaboration of scholars in Brazilian research
-organisations. FOSS is an essential component of making Open Science a
-prevalent standard. In our approach to bringing the FOSS solutions to researchers in 
-Brazil, we will help them make their research more robust, reproducible and 
-sustainable.
-
-This project focuses entirely on the research sector in Brazil. A selected
-number of research organisations support and are involved in this proposals 
-which ensures good local insight and operational background.
--->
-
 ## Background
 
-Software Carpentry activities started in Brazil in 2014 by Raniere Silva
+Software Carpentry activities were introduced in Brazil in 2014 by Raniere Silva
 who leaded the organisation of some workshops.
 The barriers, so far, for more SC&DC workshops per year in Brazil
 are the small number of instructors,
-the small number of conferences, such as PyData, where contributors could interact,
-and the lessons only be available in English---one of the "barrier to entering the computer field" mentioned by Andy Oram at [Open Source in Brazil](http://www.oreilly.com/programming/free/open-source-in-brazil.csp).
-This project aims to reduce the three barriers described before
+the small number of conferences, such as PyData, where contributors could interact and present their research,
+and the lessons only be available in English---one of the barriers to enter the computer field" mentioned by Andy Oram at [Open Source in Brazil](http://www.oreilly.com/programming/free/open-source-in-brazil.csp).
+This project aims to reduce the barriers described before
 by financing a SC&DC Instructor Training event,
 a SC&DC lesson sprint,
 and some SC&DC workshops---including
@@ -59,7 +47,7 @@ We will researve a number of seates to members of under-represented groups.
 
 The Instructor Training will be followed by
 a three-days lesson development sprint.
-The sprint will provide a opportunity for
+The sprint will provide an opportunity for
 the newly trained instructors to familiarise themselves
 with SC&DC operations regarding training material development.
 It will bring them closer to the community around SC&DC.
@@ -182,7 +170,7 @@ who can be contributors or maintainers in the future.
 |Accommodation (1    |                    |200.00              |
 |week)               |                    |                    |
 +--------------------+--------------------+--------------------+
-|Total               |                    |3,000.00            |             
+|Total               |                    |3,000.00            |
 |                    |                    |                    |
 +--------------------+--------------------+--------------------+
 
