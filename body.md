@@ -27,7 +27,7 @@ the First Brazilian Software Carpentry and Data Carpentry Workshop for Women in 
 ## Instructor Training Event
 
 In order to grow the pull of SC&DC instructors in Brazil
-we will run a SC&DC Instructor Training for 20 trainnes.
+we will run a SC&DC Instructor Training for 20 trainees.
 This 2-day event will take place in Florianópolis, Brazil
 where research community has already had some exposure to SC&DC.
 This workshop will be offered in English
@@ -41,7 +41,7 @@ we will invite local researchers and members of local coder groups,
 such as PyLadies,
 to apply for the workshop
 and we will select who will be trained.
-We will researve a number of seates to members of under-represented groups.
+We will reserve a number of seats to members of under-represented groups.
 
 ## Lessons Sprint
 
@@ -51,7 +51,7 @@ The sprint will provide an opportunity for
 the newly trained instructors to familiarise themselves
 with SC&DC operations regarding training material development.
 It will bring them closer to the community around SC&DC.
-Additionaly,
+Additionally,
 the trainees will be able to start working on their checkout tasks.
 
 The sprint will focus on the following two activities:
