@@ -1,5 +1,7 @@
 # NumFOCUS's 2017 Grant
 
+**Update (2017-05-22)**: The proposal wasn't accept. The awards by NumFOCUS Small Development Grants to Projects are list at https://www.numfocus.org/blog/numfocus-awards-small-development-grants-to-projects/.
+
 This is my proposal to NumFOCUS's 2017 Grant to be submited under Software Carpentry's and Data Carpentry's name.
 
 Check the [release tab](https://github.com/rgaiacs/numfocus-2017-grant/releases) for the PDF version of the proposal.
